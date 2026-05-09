@@ -14,6 +14,18 @@ tune your frs radio to ch 1 to 7 to hear the jamming signal.
 
 three py files are attached to see how am and 7 frs and a wbfm signal where created in python and saves off the txt file and c16 file that are needed for the portapack sd card.
 
+also added py that makes 40 am signals that covers all 40 channels of cb radio.
+
+please use for testing and learning only.
+
+connect hackrf to sdr device directly.    insert 40dB pad between sdr and hackrf to ensure sdr does not get too strong of a signal.
+
+rtl-sdr is a good device.
+
+keep learning RF and have fun.
+
+world needs more engineers,  not more lawyers and money suckers.  
+
 thanks for reading and enjoy.
 
 dr. moonshine
